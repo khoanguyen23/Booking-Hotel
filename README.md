@@ -14,13 +14,23 @@ Main feature of this project is can find hotel around the world and can reservat
 -JWT,MUI,Cloudinary
 
 ## Feature
-
+![img.png](assets/git/images/homepage.png)
 - Find hotel to reservation: You can search for hotels by the name of the country, select the check-in and check-out dates and the number of guests and rooms booked
-  ![img.png](assets/git/images/)
-- Browse by property type 
+  ![img.png](assets/git/images/searchHotel1.png)
+  ![img.png](assets/git/images/searchHotel2.png)
+- Browse by property type
+- ![img.png](assets/git/images/browse.png)
 - Login to reservation room
+- ![img.png](assets/git/images/loginpage.png)
+- ![img.png](assets/git/images/selectRoom.png)
+- See detail of hotel 
+- ![img.png](assets/git/images/detaihotel1.png)
+- ![img.png](assets/git/images/detailhotel2.png)
 - If someone has already booked a room, the room will no longer be available for booking
+- ![img.png](assets/git/images/roomsoldout.png)
 - Admin page : can add hotel , add user, add room in hotel 
+- ![img.png](assets/git/images/manageHotel.png)
+- ![img.png](assets/git/images/manageRoom.png)
 
 
 
