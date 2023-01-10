@@ -18,9 +18,10 @@ Main feature of this project is can find hotel around the world and can reservat
 - Find hotel to reservation: You can search for hotels by the name of the country, select the check-in and check-out dates and the number of guests and rooms booked
   ![img.png](assets/git/images/)
 - Browse by property type 
--Login to reservation room
--If someone has already booked a room, the room will no longer be available for booking
--Admin page : can add hotel , add user, add room in hotel 
+- Login to reservation room
+- If someone has already booked a room, the room will no longer be available for booking
+- Admin page : can add hotel , add user, add room in hotel 
+
 
 
 ## Build Notes
